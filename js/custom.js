@@ -6,7 +6,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/banner.jpeg');
+		$(".banner-image").backstretch('images/banner.png');
 
 		
 		$(window).scroll(function() {
